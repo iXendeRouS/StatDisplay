@@ -5,7 +5,7 @@ namespace StatDisplay
 {
     public class Settings : ModSettings
     {
-        public static readonly ModSettingHotkey LogStatsHotkey = new(UnityEngine.KeyCode.L)
+        public static readonly ModSettingHotkey LogStatsHotkey = new(UnityEngine.KeyCode.Backslash)
         {
             description = "Log various ingame stats to the console."
         };
