@@ -6,6 +6,6 @@
 StatDisplay
 </h1>
 
-
+Adds a hotkey to logs bloon, tower, and projectile counts.
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
